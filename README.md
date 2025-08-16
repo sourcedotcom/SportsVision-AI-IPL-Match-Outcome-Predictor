@@ -17,7 +17,7 @@ This project showcases expertise in data science, machine learning, and full-sta
 
 ⚡ Deployed model using a serialized pipeline (pipe.pkl) for fast, reliable predictions.
 
-#🛠 Tech Stack
+# Tech Stack
 
 Languages & Libraries: Python, Pandas, NumPy, Scikit-learn, Pickle
 
